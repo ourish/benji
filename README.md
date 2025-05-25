@@ -43,7 +43,7 @@ A RESTful API for crypto wallet management with real-time price tracking and per
 ### Prerequisites
 - Java 21 JDK
 - Maven
-- CoinCap API key ([Get free key](https://pro.coincap.io/signup))
+- CoinCap API key ([Get free key](https://pro.coincap.io/signup)) and update application.yml with it
 
 ```bash
 git clone https://github.com/yourusername/benji-wallet.git
